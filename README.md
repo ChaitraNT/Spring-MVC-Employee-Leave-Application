@@ -29,5 +29,16 @@ A Spring MVC based Employee Leave Management System built using JSP, Maven and T
 4. Access via:
    http://localhost:8080/spring-mvc-employee/
 
+## 📸 Application Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 📝 Leave Application Form
+![Leave Form](screenshots/leave-form.png)
+
+### ✅ Leave Submitted
+![Result Page](screenshots/result.png)
+
 ## 🔹 Author
 Chaitra NT
